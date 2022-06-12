@@ -6,65 +6,54 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+this was a website about responsiveness with use of javascript html and css
+as the name of the website , this one is for hicking and nature lovers, representing routes and info for hicking in and outside of norway with packages for amateurs of hicking and traveling.
 
-You can add some bullet points if you'd like to:
+- the home page with hero image gives a clear look and feel for adventure to the user
+- the website resprents the option for users to choose routes
+- option to search with a high profile filter
+- presents locations and trips types in terms of length and duration.
 
-- List item 1
-- List item 2
-- List item 3
+- helping the user by grouping tours and offers with needed info regarding the price, location and duration
+- our famous destinations gives a help for users to pick up
+- sort hikes , long hikes and camping hikes, with names of locations and starting prices are easily found in the website.
+  giving infomation for the user throw faq, and providing informations
+
+- the website contains four pages
+- in contact the info in presented with phone and location
+- contact posibility via the form
+- about us buils more trust and presents the identity of the website.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- [HTML]
+- [CSS]
+- [javascrip]
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+no instalaltion required
 
-1. Clone the repo:
+# repo at :
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
-
-2. Install the dependencies:
-
-```
-npm install
+https://github.com/lacdart2/semester-project1
 ```
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+no running installation needed
 
 ## Contact
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
+[https://twitter.com/LakhdarKader](www.twitter.com)
 
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
+[https://www.linkedin.com/in/lakhdar-hafsi-24b31060/](www.linkedin.com)
 
 ## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+hicking websites
