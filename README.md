@@ -1,4 +1,4 @@
-# Your project title
+# Project Semester 1
 
 ![semester project1 homepage screenshot](images/readme-image.png) [](README.md)
 
