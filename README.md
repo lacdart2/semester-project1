@@ -22,7 +22,7 @@ as the name of the website , this one is for hicking and nature lovers, represen
 - the website contains four pages
 - in contact the info in presented with phone and location
 - contact posibility via the form
-- about us buils more trust and presents the identity of the website.
+- about us builds more trust and presents the identity of the website.
 
 ## Built With
 
@@ -48,7 +48,7 @@ no running installation needed
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+
 
 [https://twitter.com/LakhdarKader](www.twitter.com)
 
