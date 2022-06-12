@@ -50,9 +50,9 @@ no running installation needed
 
 
 
-[https://twitter.com/LakhdarKader](www.twitter.com)
+[My Twitter page](https://twitter.com/LakhdarKader)
 
-[https://www.linkedin.com/in/lakhdar-hafsi-24b31060/](www.linkedin.com)
+[My LinkedIn page](https://www.linkedin.com/in/lakhdar-hafsi-24b31060/)
 
 ## Acknowledgments
 
